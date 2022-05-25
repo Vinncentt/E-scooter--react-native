@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "escooter",
-    "slug": "escooter",
+    "name": "E-scooter-app",
+    "slug": "E-scooter-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
